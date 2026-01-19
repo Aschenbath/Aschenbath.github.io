@@ -1,38 +1,23 @@
 ---
-title: Hello World
+title: 博客开张：你好，世界
+date: 2026-01-19 11:13:00
+updated: 2026-01-19 11:13:00
+tags:
+  - 日志
+categories:
+  - 随笔
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+欢迎来到 Aschenbath 的博客。这里会记录我在学习与折腾路上的产出：算法/工程笔记、踩坑复盘、以及一些随手写下的想法。
 
-### Create a new post
+## 这个博客会写什么
 
-``` bash
-$ hexo new "My New Post"
-```
+- 学习笔记：Java / Web / 数据库 / 计算机基础。
+- 项目复盘：从“跑起来”到“上线”，把每一步写清楚。
+- 杂谈与感想：偶尔也会写点非技术内容，让生活透口气。
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+## 这篇文章只是一个起点
 
-### Run server
+这个站点使用 Hexo + NexT 主题搭建，并托管在 Cloudflare Pages 上。以后每次更新，我只需要在本地写完文章、`git push`，站点就会自动构建发布。
 
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+如果你现在看到这篇文章，说明部署链路已经打通了，接下来就是持续输出内容。✅
